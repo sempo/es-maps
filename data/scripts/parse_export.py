@@ -259,8 +259,9 @@ def parse(text, clean):
     plot = re.search(r'(?:участ\w*|parcela)\D{0,25}?(\d[\d\s]*)\s*м', text, re.I)
     if plot and not r['plot_m2'] and r['property_type'] != 'land':
         r['plot_m2'] = num(plot.group(1))
-    ter = re.search(r'[Тт]ерраса?\w*\s*(?:около\s*|площадью\s*)?(\d+)\s*м|(\d+)\s*м²?\s*террас', text)
-    r['terrace_m2'] = num(next(g for g in ter.groups() if g)) if ter else None
+    ter = re.search(r'[Тт]еррас\w*\s*(?:(?:общей|около|площадью|более|с перголой)\s*)*(\d+(?:[.,]\d+)?)\s*м'
+                    r'|(\d+(?:[.,]\d+)?)\s*м²?\s*террас', text)
+    r['terrace_m2'] = round(float(next(g for g in ter.groups() if g).replace(',', '.'))) if ter else None
     r['bedrooms'] = count(low, r'спал') or count(low, r'bedroom') or count(low, r'habitaci')
     r['bathrooms'] = count(low, r'ванн') or count(low, r'санузл') or count(low, r'bathroom') or count(low, r'baño')
     # "4 этаж" / "на 15-м этаже" = floor; "3 этажа", "четырёхэтажный" = number of storeys (ignored)
