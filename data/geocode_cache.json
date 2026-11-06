@@ -1,0 +1,482 @@
+{
+ "Aiora, València |vlc-box": {
+  "addresstype": "neighbourhood",
+  "category": "boundary",
+  "display_name": "Aiora, Camins al Grau, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, España",
+  "lat": 39.4658183,
+  "lon": -0.3433228,
+  "type": "administrative"
+ },
+ "Albors, València |vlc-box": {
+  "addresstype": "neighbourhood",
+  "category": "boundary",
+  "display_name": "Albors, Camins al Grau, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, 46021, España",
+  "lat": 39.4683693,
+  "lon": -0.3528929,
+  "type": "administrative"
+ },
+ "Algirós, València |vlc-box": {
+  "addresstype": "suburb",
+  "category": "boundary",
+  "display_name": "Algirós, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, España",
+  "lat": 39.4762717,
+  "lon": -0.3436533,
+  "type": "administrative"
+ },
+ "Arrancapins, València |vlc-box": {
+  "addresstype": "neighbourhood",
+  "category": "place",
+  "display_name": "Arrancapins, Extramuros, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, 46007, España",
+  "lat": 39.4642207,
+  "lon": -0.3842555,
+  "type": "neighbourhood"
+ },
+ "Avenida Maestro Rodrigo, Valencia, Spain |vlc-box": {
+  "addresstype": "primary",
+  "category": "highway",
+  "display_name": "Avenida del Maestro Rodrigo, Sant Pau, Campanar, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, 46015, España",
+  "lat": 39.4820223,
+  "lon": -0.4009207,
+  "type": "primary"
+ },
+ "Benicalap, València |vlc-box": {
+  "addresstype": "suburb",
+  "category": "boundary",
+  "display_name": "Benicalap, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, España",
+  "lat": 39.4950176,
+  "lon": -0.3921382,
+  "type": "administrative"
+ },
+ "Burjassot, Valencia, Spain": {
+  "addresstype": "town",
+  "category": "boundary",
+  "display_name": "Burjasot, L'Horta Nord, Valencia, Comunidad Valenciana, 46100, España",
+  "lat": 39.5090599,
+  "lon": -0.4108581,
+  "type": "administrative"
+ },
+ "Bétera, Valencia, Spain": {
+  "addresstype": "town",
+  "category": "boundary",
+  "display_name": "Bétera, El Camp de Túria, Valencia, Comunidad Valenciana, 46117, España",
+  "lat": 39.5917307,
+  "lon": -0.4622695,
+  "type": "administrative"
+ },
+ "Calicanto, Torrent": {
+  "addresstype": "neighbourhood",
+  "category": "place",
+  "display_name": "Cumbres de Calicanto, Torrente, L'Horta Sud, Valencia, Comunidad Valenciana, 46389, España",
+  "lat": 39.4287515,
+  "lon": -0.5846838,
+  "type": "neighbourhood"
+ },
+ "Calle Literat Azorín, Valencia, Spain |vlc-box": {
+  "addresstype": "residential",
+  "category": "highway",
+  "display_name": "Calle del Literato Azorín, Ruzafa, Ensanche, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, 46006, España",
+  "lat": 39.4597374,
+  "lon": -0.3757877,
+  "type": "residential"
+ },
+ "Camins al Grau, València |vlc-box": {
+  "addresstype": "suburb",
+  "category": "boundary",
+  "display_name": "Camins al Grau, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, España",
+  "lat": 39.4630582,
+  "lon": -0.3480652,
+  "type": "administrative"
+ },
+ "Carrer de Buenos Aires, La Pobla de Vallbona, Spain": {
+  "addresstype": "residential",
+  "category": "highway",
+  "display_name": "Calle de Buenos Aires, el Mas de Tous, La Pobla de Vallbona, El Camp de Túria, Valencia, Comunidad Valenciana, 46185, España",
+  "lat": 39.5920969,
+  "lon": -0.5466368,
+  "type": "residential"
+ },
+ "Casas Verdes, Paterna": {
+  "addresstype": "amenity",
+  "category": "amenity",
+  "display_name": "Casas Verdes, Paseo del Peñón de Ifach, la Coma, Paterna, L'Horta Nord, Valencia, Comunidad Valenciana, 46110, España",
+  "lat": 39.520947,
+  "lon": -0.4259693,
+  "type": "cafe"
+ },
+ "Ciutat Fallera, València |vlc-box": {
+  "addresstype": "neighbourhood",
+  "category": "boundary",
+  "display_name": "Ciutat Fallera, Benicalap, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, España",
+  "lat": 39.4993283,
+  "lon": -0.3929975,
+  "type": "administrative"
+ },
+ "Ciutat Vella, València |vlc-box": {
+  "addresstype": "suburb",
+  "category": "boundary",
+  "display_name": "Ciudad Vieja, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, España",
+  "lat": 39.4746223,
+  "lon": -0.3765452,
+  "type": "administrative"
+ },
+ "Ciutat de les Arts i de les Ciències, València |vlc-box": {
+  "addresstype": "neighbourhood",
+  "category": "boundary",
+  "display_name": "Ciudad de las Artes y las Ciencias, Quatre Carreres, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, España",
+  "lat": 39.45343,
+  "lon": -0.3590404,
+  "type": "administrative"
+ },
+ "Dénia, Alicante, Spain": {
+  "addresstype": "town",
+  "category": "boundary",
+  "display_name": "Dénia, La Marina Alta, Alicante, Comunidad Valenciana, España",
+  "lat": 38.8408382,
+  "lon": 0.1061105,
+  "type": "administrative"
+ },
+ "Extramurs, València |vlc-box": {
+  "addresstype": "borough",
+  "category": "boundary",
+  "display_name": "Extramuros, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, 46008, España",
+  "lat": 39.4708608,
+  "lon": -0.3881723,
+  "type": "administrative"
+ },
+ "Gandia, Valencia, Spain": {
+  "addresstype": "town",
+  "category": "boundary",
+  "display_name": "Gandía, La Safor, Valencia, Comunidad Valenciana, España",
+  "lat": 38.9675925,
+  "lon": -0.1803423,
+  "type": "administrative"
+ },
+ "Godella, Valencia, Spain": {
+  "addresstype": "town",
+  "category": "boundary",
+  "display_name": "Godella, L'Horta Nord, Valencia, Comunidad Valenciana, 46110, España",
+  "lat": 39.5184276,
+  "lon": -0.4103168,
+  "type": "administrative"
+ },
+ "Gran Vía, Ensanche, València |vlc-box": {
+  "addresstype": "neighbourhood",
+  "category": "boundary",
+  "display_name": "Gran Via, Ensanche, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, 46005, España",
+  "lat": 39.4657928,
+  "lon": -0.3658132,
+  "type": "administrative"
+ },
+ "Jaume Roig, València |vlc-box": {
+  "addresstype": "neighbourhood",
+  "category": "boundary",
+  "display_name": "Jaume Roig, El Llano del Real, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, España",
+  "lat": 39.4817766,
+  "lon": -0.3629452,
+  "type": "administrative"
+ },
+ "Jesús, València |vlc-box": {
+  "addresstype": "suburb",
+  "category": "boundary",
+  "display_name": "Jesús, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, España",
+  "lat": 39.4481103,
+  "lon": -0.3902594,
+  "type": "administrative"
+ },
+ "Manises, Valencia, Spain": {
+  "addresstype": "town",
+  "category": "boundary",
+  "display_name": "Manises, L'Horta Sud, Valencia, Comunidad Valenciana, 46940, España",
+  "lat": 39.492989,
+  "lon": -0.4621429,
+  "type": "administrative"
+ },
+ "Marxalenes, València |vlc-box": {
+  "addresstype": "neighbourhood",
+  "category": "boundary",
+  "display_name": "Marxalenes, La Zaidía, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, 46009, España",
+  "lat": 39.4854203,
+  "lon": -0.3821623,
+  "type": "administrative"
+ },
+ "Mas Camarena, Bétera": {
+  "addresstype": "suburb",
+  "category": "place",
+  "display_name": "Urbanització el Mas de Camarena, Bétera, El Camp de Túria, Valencia, Comunidad Valenciana, 46980, España",
+  "lat": 39.5535932,
+  "lon": -0.4580374,
+  "type": "suburb"
+ },
+ "Mestalla, València |vlc-box": {
+  "addresstype": "leisure",
+  "category": "leisure",
+  "display_name": "Mestalla, Avenida de Suecia, Mestalla, El Llano del Real, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, 46010, España",
+  "lat": 39.4745279,
+  "lon": -0.3581566,
+  "type": "stadium"
+ },
+ "Mislata, Valencia, Spain": {
+  "addresstype": "town",
+  "category": "boundary",
+  "display_name": "Mislata, L'Horta Sud, Valencia, Comunidad Valenciana, 46920, España",
+  "lat": 39.4751444,
+  "lon": -0.4179125,
+  "type": "administrative"
+ },
+ "Montcada, Valencia, Spain": {
+  "addresstype": "town",
+  "category": "boundary",
+  "display_name": "Moncada, L'Horta Nord, Valencia, Comunidad Valenciana, España",
+  "lat": 39.5450484,
+  "lon": -0.3941015,
+  "type": "administrative"
+ },
+ "Morvedre, València |vlc-box": {
+  "addresstype": "neighbourhood",
+  "category": "boundary",
+  "display_name": "Morvedre, La Zaidía, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, España",
+  "lat": 39.4842793,
+  "lon": -0.375532,
+  "type": "administrative"
+ },
+ "Natzaret, València |vlc-box": {
+  "addresstype": "neighbourhood",
+  "category": "boundary",
+  "display_name": "Nazaret, Poblados Marítimos, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, España",
+  "lat": 39.4500543,
+  "lon": -0.3336026,
+  "type": "administrative"
+ },
+ "Paseo de les Facultats, Valencia, Spain |vlc-box": {
+  "addresstype": "pedestrian",
+  "category": "highway",
+  "display_name": "Paseo de las Facultades, la Carrasca, Algirós, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, 46022, España",
+  "lat": 39.4774727,
+  "lon": -0.3474573,
+  "type": "pedestrian"
+ },
+ "Patraix, València |vlc-box": {
+  "addresstype": "suburb",
+  "category": "boundary",
+  "display_name": "Patraix, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, 46014, España",
+  "lat": 39.4590529,
+  "lon": -0.4008047,
+  "type": "administrative"
+ },
+ "Penya-Roja, Camins al Grau, València |vlc-box": {
+  "addresstype": "neighbourhood",
+  "category": "boundary",
+  "display_name": "Penya-roja, Camins al Grau, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, España",
+  "lat": 39.4595894,
+  "lon": -0.350318,
+  "type": "administrative"
+ },
+ "Poblats Marítims, València |vlc-box": {
+  "addresstype": "suburb",
+  "category": "boundary",
+  "display_name": "Poblados Marítimos, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, 46011, España",
+  "lat": 39.4643605,
+  "lon": -0.332079,
+  "type": "administrative"
+ },
+ "Quart de Poblet, Valencia, Spain": {
+  "addresstype": "town",
+  "category": "boundary",
+  "display_name": "Quart de Poblet, L'Horta Sud, Valencia, Comunidad Valenciana, 46930, España",
+  "lat": 39.4827253,
+  "lon": -0.4438854,
+  "type": "administrative"
+ },
+ "Quatre Carreres, València |vlc-box": {
+  "addresstype": "suburb",
+  "category": "boundary",
+  "display_name": "Quatre Carreres, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, España",
+  "lat": 39.4468126,
+  "lon": -0.3594229,
+  "type": "administrative"
+ },
+ "Russafa, València |vlc-box": {
+  "addresstype": "neighbourhood",
+  "category": "boundary",
+  "display_name": "Ruzafa, Ensanche, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, 46006, España",
+  "lat": 39.462278,
+  "lon": -0.3720713,
+  "type": "administrative"
+ },
+ "Safranar, València |vlc-box": {
+  "addresstype": "neighbourhood",
+  "category": "boundary",
+  "display_name": "Safranar, Patraix, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, España",
+  "lat": 39.4586207,
+  "lon": -0.3967274,
+  "type": "administrative"
+ },
+ "Sant Francesc, Ciutat Vella, València |vlc-box": {
+  "addresstype": "neighbourhood",
+  "category": "boundary",
+  "display_name": "Sant Francesc, Ciudad Vieja, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, 46002, España",
+  "lat": 39.4701823,
+  "lon": -0.3755728,
+  "type": "administrative"
+ },
+ "Sant Isidre, València |vlc-box": {
+  "addresstype": "neighbourhood",
+  "category": "boundary",
+  "display_name": "San Isidro, Patraix, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, España",
+  "lat": 39.4540512,
+  "lon": -0.403276,
+  "type": "administrative"
+ },
+ "Sant Llorenç, Rascanya, València |vlc-box": {
+  "addresstype": "neighbourhood",
+  "category": "boundary",
+  "display_name": "Sant Llorenç, Rascanya, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, España",
+  "lat": 39.4917959,
+  "lon": -0.363079,
+  "type": "administrative"
+ },
+ "Sierra Perenchiza, Torrent": {
+  "addresstype": "amenity",
+  "category": "amenity",
+  "display_name": "Instituto de Educación Secundaria Sierra Perenchiza, 1, Calle de la Corona de Aragón, el Poble Nou, Torrente, L'Horta Sud, Valencia, Comunidad Valenciana, 46900, España",
+  "lat": 39.4296697,
+  "lon": -0.466028,
+  "type": "school"
+ },
+ "Torrent, Valencia, Spain": {
+  "addresstype": "town",
+  "category": "boundary",
+  "display_name": "Torrente, L'Horta Sud, Valencia, Comunidad Valenciana, España",
+  "lat": 39.436668,
+  "lon": -0.4656213,
+  "type": "administrative"
+ },
+ "Xirivella, Valencia, Spain": {
+  "addresstype": "town",
+  "category": "boundary",
+  "display_name": "Xirivella, L'Horta Sud, Valencia, Comunidad Valenciana, 46950, España",
+  "lat": 39.4655723,
+  "lon": -0.4307834,
+  "type": "administrative"
+ },
+ "el Botànic, València |vlc-box": {
+  "addresstype": "neighbourhood",
+  "category": "boundary",
+  "display_name": "el Botànic, Extramuros, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, España",
+  "lat": 39.4740852,
+  "lon": -0.3858126,
+  "type": "administrative"
+ },
+ "el Cabanyal, València |vlc-box": {
+  "addresstype": "neighbourhood",
+  "category": "place",
+  "display_name": "el Cabanyal, Poblados Marítimos, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, 46011, España",
+  "lat": 39.4719889,
+  "lon": -0.3286803,
+  "type": "neighbourhood"
+ },
+ "el Calvari, València |vlc-box": {
+  "addresstype": "neighbourhood",
+  "category": "boundary",
+  "display_name": "el Calvari, Campanar, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, España",
+  "lat": 39.4872535,
+  "lon": -0.3903501,
+  "type": "administrative"
+ },
+ "el Canyamelar, València |vlc-box": {
+  "addresstype": "railway",
+  "category": "railway",
+  "display_name": "València Cabanyal, Calle Poble Nou de la Mar, Cabañal - Cañamelar, Poblados Marítimos, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, 46022, España",
+  "lat": 39.4701155,
+  "lon": -0.3345854,
+  "type": "halt"
+ },
+ "el Carme, València |vlc-box": {
+  "addresstype": "neighbourhood",
+  "category": "boundary",
+  "display_name": "El Carmen, Ciudad Vieja, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, 46003, España",
+  "lat": 39.4782212,
+  "lon": -0.3810013,
+  "type": "administrative"
+ },
+ "el Grau, València |vlc-box": {
+  "addresstype": "neighbourhood",
+  "category": "boundary",
+  "display_name": "El Grao, Poblados Marítimos, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, España",
+  "lat": 39.460874,
+  "lon": -0.335739,
+  "type": "administrative"
+ },
+ "el Pla del Remei, València |vlc-box": {
+  "addresstype": "neighbourhood",
+  "category": "boundary",
+  "display_name": "el Pla del Remei, Ensanche, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, 46004, España",
+  "lat": 39.4689748,
+  "lon": -0.3690676,
+  "type": "administrative"
+ },
+ "l'Eixample, València |vlc-box": {
+  "addresstype": "suburb",
+  "category": "boundary",
+  "display_name": "Ensanche, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, España",
+  "lat": 39.4643613,
+  "lon": -0.3693972,
+  "type": "administrative"
+ },
+ "l'Eliana, Valencia, Spain": {
+  "addresstype": "town",
+  "category": "boundary",
+  "display_name": "L'Eliana, El Camp de Túria, Valencia, Comunidad Valenciana, España",
+  "lat": 39.5659086,
+  "lon": -0.5302784,
+  "type": "administrative"
+ },
+ "la Fonteta de Sant Lluís, València |vlc-box": {
+  "addresstype": "neighbourhood",
+  "category": "boundary",
+  "display_name": "la Fuente de San Luís, Turianova, Quatre Carreres, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, España",
+  "lat": 39.4443079,
+  "lon": -0.3673553,
+  "type": "administrative"
+ },
+ "la Llum, València |vlc-box": {
+  "addresstype": "neighbourhood",
+  "category": "boundary",
+  "display_name": "la Luz, la Olivereta, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, España",
+  "lat": 39.4682755,
+  "lon": -0.4131322,
+  "type": "administrative"
+ },
+ "la Malva-rosa, València |vlc-box": {
+  "addresstype": "neighbourhood",
+  "category": "boundary",
+  "display_name": "la Malva-rosa, Poblados Marítimos, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, España",
+  "lat": 39.4802716,
+  "lon": -0.3284819,
+  "type": "administrative"
+ },
+ "la Roqueta, València |vlc-box": {
+  "addresstype": "neighbourhood",
+  "category": "boundary",
+  "display_name": "la Roqueta, Extramuros, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, España",
+  "lat": 39.4669566,
+  "lon": -0.3802721,
+  "type": "administrative"
+ },
+ "la Trinitat, València |vlc-box": {
+  "addresstype": "man_made",
+  "category": "man_made",
+  "display_name": "Puente de la Trinidad, La Sede, Ciudad Vieja, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, 46003, España",
+  "lat": 39.4790237,
+  "lon": -0.3726951,
+  "type": "bridge"
+ },
+ "na Rovella, València |vlc-box": {
+  "addresstype": "neighbourhood",
+  "category": "boundary",
+  "display_name": "Na Rovella, Quatre Carreres, Valencia, Comarca de Valencia, Valencia, Comunidad Valenciana, España",
+  "lat": 39.4523614,
+  "lon": -0.3667204,
+  "type": "administrative"
+ }
+}
