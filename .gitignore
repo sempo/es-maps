@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+dist/
+*.log
+__pycache__/
+
+# SunLine data: private sample, not to be published (see data/BRIEF.md, Legal note)
+data/raw/
+data/properties.json
+*.tsbuildinfo
